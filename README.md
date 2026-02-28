@@ -25,7 +25,7 @@
 
 - Full Stack Developer with experience at **Sudamericana de Software** and **Kruger Corp**
 - Specialized in scalable web & mobile apps, backend services, and CI/CD pipelines
-- Currently studying **Software Engineering** at Universidad Católica de Cuenca
+- **Software Engineer** — Universidad Católica de Cuenca
 - Open to remote opportunities worldwide
 - Based in Quito, Ecuador
 
