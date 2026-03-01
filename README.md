@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> · Java · Node.js · React · Flutter
+  <strong>Full Stack Developer</strong> · Java · Node.js · React · Angular
 </p>
 
 <p align="center">
