@@ -61,8 +61,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyTierra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyTierra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=94a3b8" height="160" />
+  <img src="https://streak-stats.demolab.com?user=JeremyTierra&theme=tokyonight&hide_border=true&background=0f172a&stroke=334155&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyTierra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=94a3b8&cache_seconds=86400" height="160" />
 </p>
 
 ---
