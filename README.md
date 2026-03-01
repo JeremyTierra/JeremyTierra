@@ -58,14 +58,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeremyTierra&theme=tokyonight&hide_border=true&background=0f172a&stroke=334155&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9" height="160" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JeremyTierra&color=06b6d4&style=flat-square&label=Profile+Views" />
 </p>
